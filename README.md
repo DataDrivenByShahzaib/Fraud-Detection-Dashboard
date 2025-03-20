@@ -39,8 +39,7 @@ In this project, I analyzed a **large dataset of financial transactions (over 6 
 - Weekly distribution of transactions.
 
 ---
-## 📊 **Final Dashboard**
-[📂 View Tableau Dashboard](#) *(Add Tableau Public or GitHub link here)*
+
 
 ---
 ## 🛠 Project Tools Used
